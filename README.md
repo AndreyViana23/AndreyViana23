@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @AndreyViana23
-- 👀 I’m interested in  parcipar de projetos  Open source javascript ( para melhorar minhas abilidades)
-- 🌱 I’m currently learning : JavaScript HTML CSS  
+- 👋 Ola. meu nome e Andrey Viana
+- 👀 Eu estou interessado em  parcipar de projetos  Open source javascript ( para melhorar minhas abilidades)
+- 🌱 No momento estou aprendendo: JavaScript HTML CSS  
+- 💬 Email de Contato para falar comigo é: andviana.a@gmail.com
 -  
 - 
 - 
